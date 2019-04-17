@@ -1,7 +1,7 @@
-# Machine-Learning
+## Machine-Learning
 
 Content:-
 
->>Case Study
-  > NASA Metadata 
-  > Usenet Bulletin 
+Case Study - 
+  1) NASA Metadata 
+  2) Usenet Bulletin 
