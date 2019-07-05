@@ -1,0 +1,80 @@
+Å´transitions⁄][
+  {
+    "clas":0,
+    "move":1,
+    "label":"Narendra Modi",
+    "name":"B-Narendra Modi"
+  },
+  {
+    "clas":1,
+    "move":2,
+    "label":"Narendra Modi",
+    "name":"I-Narendra Modi"
+  },
+  {
+    "clas":2,
+    "move":3,
+    "label":"Narendra Modi",
+    "name":"L-Narendra Modi"
+  },
+  {
+    "clas":3,
+    "move":4,
+    "label":"Narendra Modi",
+    "name":"U-Narendra Modi"
+  },
+  {
+    "clas":4,
+    "move":1,
+    "label":"Location",
+    "name":"B-Location"
+  },
+  {
+    "clas":5,
+    "move":2,
+    "label":"Location",
+    "name":"I-Location"
+  },
+  {
+    "clas":6,
+    "move":3,
+    "label":"Location",
+    "name":"L-Location"
+  },
+  {
+    "clas":7,
+    "move":4,
+    "label":"Location",
+    "name":"U-Location"
+  },
+  {
+    "clas":8,
+    "move":1,
+    "label":"Person",
+    "name":"B-Person"
+  },
+  {
+    "clas":9,
+    "move":2,
+    "label":"Person",
+    "name":"I-Person"
+  },
+  {
+    "clas":10,
+    "move":3,
+    "label":"Person",
+    "name":"L-Person"
+  },
+  {
+    "clas":11,
+    "move":4,
+    "label":"Person",
+    "name":"U-Person"
+  },
+  {
+    "clas":12,
+    "move":5,
+    "label":"",
+    "name":"O"
+  }
+]
